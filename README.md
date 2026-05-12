@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Visitor Count](https://profile-counter.glitch.me/FYSP-WS/count.svg)
+
 
 [![FYPS-WS's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FYPS-WS&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
