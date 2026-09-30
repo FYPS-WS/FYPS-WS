@@ -10,7 +10,7 @@
 - 🧠 I'm currently exploring **LLM Agents, RAG and Machine Learning**
 - 📚 Interested in Information Retrieval and Time Series Forecasting
 - 🤝 I'm open to collaborating on AI/ML and open-source projects
-- 📫 You can reach me at **YOUR_EMAIL@example.com**
+- 📫 You can reach me at **923849809@qq.com**
 
 ---
 
@@ -64,5 +64,5 @@ Research involving traditional and neural retrieval methods:
 
 ## Socials
 
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/FYPS-WS)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/YOUR_PROFILE)
